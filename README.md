@@ -1,3 +1,2 @@
 # AULA-4
-RAIZ UNITÁRIA
-"INSTRUÇÕES DO PROFESSOR NA AULA"
+códigos sobre Raizes Unitárias e Teste DF - Dick Fulle
